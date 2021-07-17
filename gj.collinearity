@@ -1,0 +1,532 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# MATCH_SIZE: 5
+# GAP_PENALTY: -1
+# OVERLAP_WINDOW: 5
+# E_VALUE: 1e-05
+# MAX GAPS: 25
+############### Statistics ###############
+# Number of collinear genes: 830, Percentage: 4.10
+# Number of all genes: 20227
+##########################################
+## Alignment 0: score=285.0 e_value=6.8e-14 N=7 Chr1&Chr1 minus
+  0-  0:	gene-Gja001949	gene-Gja002057	  4e-15
+  0-  1:	gene-Gja001967	gene-Gja002035	  3e-07
+  0-  2:	gene-Gja001983	gene-Gja002034	  5e-17
+  0-  3:	gene-Gja001987	gene-Gja002033	  2e-29
+  0-  4:	gene-Gja002004	gene-Gja002027	  7e-17
+  0-  5:	gene-Gja002007	gene-Gja002024	  1e-38
+  0-  6:	gene-Gja002010	gene-Gja002015	  4e-65
+## Alignment 1: score=365.0 e_value=1.6e-17 N=8 Chr1&Chr5 plus
+  1-  0:	gene-Gja000711	gene-Gja007790	  5e-18
+  1-  1:	gene-Gja000712	gene-Gja007791	  4e-64
+  1-  2:	gene-Gja000719	gene-Gja007794	  9e-24
+  1-  3:	gene-Gja000733	gene-Gja007798	  2e-21
+  1-  4:	gene-Gja000741	gene-Gja007802	  4e-81
+  1-  5:	gene-Gja000742	gene-Gja007804	  2e-46
+  1-  6:	gene-Gja000743	gene-Gja007805	 4e-115
+  1-  7:	gene-Gja000752	gene-Gja007806	  1e-16
+## Alignment 2: score=276.0 e_value=4e-10 N=6 Chr1&Chr8 plus
+  2-  0:	gene-Gja001385	gene-Gja011417	  7e-11
+  2-  1:	gene-Gja001389	gene-Gja011420	  8e-41
+  2-  2:	gene-Gja001391	gene-Gja011436	 7e-132
+  2-  3:	gene-Gja001392	gene-Gja011437	  1e-30
+  2-  4:	gene-Gja001394	gene-Gja011443	  1e-09
+  2-  5:	gene-Gja001396	gene-Gja011445	  1e-69
+## Alignment 3: score=257.0 e_value=2.1e-08 N=6 Chr1&Chr8 plus
+  3-  0:	gene-Gja001299	gene-Gja011262	      0
+  3-  1:	gene-Gja001309	gene-Gja011264	  1e-71
+  3-  2:	gene-Gja001313	gene-Gja011272	      0
+  3-  3:	gene-Gja001314	gene-Gja011273	      0
+  3-  4:	gene-Gja001317	gene-Gja011277	 2e-111
+  3-  5:	gene-Gja001342	gene-Gja011279	  1e-77
+## Alignment 4: score=289.0 e_value=1.4e-08 N=6 Chr1&Chr9 plus
+  4-  0:	gene-Gja000730	gene-Gja012400	 5e-125
+  4-  1:	gene-Gja000733	gene-Gja012401	      0
+  4-  2:	gene-Gja000739	gene-Gja012403	  2e-83
+  4-  3:	gene-Gja000740	gene-Gja012404	  5e-12
+  4-  4:	gene-Gja000742	gene-Gja012406	  2e-46
+  4-  5:	gene-Gja000743	gene-Gja012409	  5e-25
+## Alignment 5: score=261.0 e_value=2.3e-09 N=6 Chr1&Chr9 minus
+  5-  0:	gene-Gja000766	gene-Gja012582	  2e-25
+  5-  1:	gene-Gja000767	gene-Gja012563	  7e-16
+  5-  2:	gene-Gja000770	gene-Gja012561	  9e-19
+  5-  3:	gene-Gja000775	gene-Gja012559	  4e-17
+  5-  4:	gene-Gja000778	gene-Gja012553	  2e-13
+  5-  5:	gene-Gja000789	gene-Gja012549	  4e-27
+## Alignment 6: score=330.0 e_value=4.7e-15 N=8 Chr10&Chr2 plus
+  6-  0:	gene-Gja013412	gene-Gja003302	 5e-127
+  6-  1:	gene-Gja013415	gene-Gja003303	  4e-33
+  6-  2:	gene-Gja013425	gene-Gja003308	  1e-10
+  6-  3:	gene-Gja013430	gene-Gja003311	 1e-103
+  6-  4:	gene-Gja013432	gene-Gja003336	 1e-175
+  6-  5:	gene-Gja013442	gene-Gja003347	 2e-132
+  6-  6:	gene-Gja013463	gene-Gja003350	  2e-16
+  6-  7:	gene-Gja013465	gene-Gja003351	 1e-146
+## Alignment 7: score=288.0 e_value=2.3e-14 N=7 Chr10&Chr2 plus
+  7-  0:	gene-Gja013232	gene-Gja003278	  6e-28
+  7-  1:	gene-Gja013234	gene-Gja003279	  6e-56
+  7-  2:	gene-Gja013236	gene-Gja003280	 3e-130
+  7-  3:	gene-Gja013258	gene-Gja003302	  3e-75
+  7-  4:	gene-Gja013261	gene-Gja003315	      0
+  7-  5:	gene-Gja013273	gene-Gja003323	  4e-33
+  7-  6:	gene-Gja013290	gene-Gja003336	      0
+## Alignment 8: score=301.0 e_value=3e-14 N=7 Chr10&Chr3 plus
+  8-  0:	gene-Gja013138	gene-Gja004961	  9e-77
+  8-  1:	gene-Gja013139	gene-Gja004963	  5e-60
+  8-  2:	gene-Gja013142	gene-Gja004965	  2e-38
+  8-  3:	gene-Gja013143	gene-Gja004967	  1e-56
+  8-  4:	gene-Gja013145	gene-Gja004970	  1e-16
+  8-  5:	gene-Gja013160	gene-Gja004995	  3e-58
+  8-  6:	gene-Gja013180	gene-Gja005015	      0
+## Alignment 9: score=252.0 e_value=1.9e-10 N=6 Chr10&Chr3 minus
+  9-  0:	gene-Gja013132	gene-Gja004989	  1e-25
+  9-  1:	gene-Gja013133	gene-Gja004988	  6e-38
+  9-  2:	gene-Gja013143	gene-Gja004967	  1e-56
+  9-  3:	gene-Gja013162	gene-Gja004943	  2e-13
+  9-  4:	gene-Gja013167	gene-Gja004942	  5e-48
+  9-  5:	gene-Gja013169	gene-Gja004940	  9e-18
+## Alignment 10: score=285.0 e_value=2.3e-11 N=7 Chr10&Chr7 plus
+ 10-  0:	gene-Gja013473	gene-Gja010937	  1e-09
+ 10-  1:	gene-Gja013478	gene-Gja010944	  9e-47
+ 10-  2:	gene-Gja013479	gene-Gja010946	 2e-174
+ 10-  3:	gene-Gja013499	gene-Gja010953	  2e-11
+ 10-  4:	gene-Gja013510	gene-Gja010965	  1e-99
+ 10-  5:	gene-Gja013514	gene-Gja010979	  7e-46
+ 10-  6:	gene-Gja013530	gene-Gja010984	  1e-24
+## Alignment 11: score=595.0 e_value=5.1e-43 N=13 Chr11&Chr12 plus
+ 11-  0:	gene-Gja014160	gene-Gja015005	 2e-158
+ 11-  1:	gene-Gja014163	gene-Gja015010	  2e-31
+ 11-  2:	gene-Gja014168	gene-Gja015011	  4e-30
+ 11-  3:	gene-Gja014174	gene-Gja015015	  1e-76
+ 11-  4:	gene-Gja014175	gene-Gja015016	  2e-91
+ 11-  5:	gene-Gja014176	gene-Gja015017	  2e-17
+ 11-  6:	gene-Gja014177	gene-Gja015018	  8e-27
+ 11-  7:	gene-Gja014178	gene-Gja015019	  2e-36
+ 11-  8:	gene-Gja014179	gene-Gja015021	  8e-37
+ 11-  9:	gene-Gja014182	gene-Gja015024	  1e-77
+ 11- 10:	gene-Gja014189	gene-Gja015027	 3e-108
+ 11- 11:	gene-Gja014195	gene-Gja015036	  5e-12
+ 11- 12:	gene-Gja014214	gene-Gja015062	  3e-13
+## Alignment 12: score=295.0 e_value=7.1e-12 N=7 Chr11&Chr12 plus
+ 12-  0:	gene-Gja014459	gene-Gja014946	  2e-42
+ 12-  1:	gene-Gja014484	gene-Gja014950	 1e-156
+ 12-  2:	gene-Gja014486	gene-Gja014951	 5e-118
+ 12-  3:	gene-Gja014490	gene-Gja014954	  7e-18
+ 12-  4:	gene-Gja014492	gene-Gja014957	      0
+ 12-  5:	gene-Gja014496	gene-Gja014959	 6e-103
+ 12-  6:	gene-Gja014519	gene-Gja014973	  9e-55
+## Alignment 13: score=252.0 e_value=3.6e-11 N=6 Chr11&Chr12 plus
+ 13-  0:	gene-Gja014452	gene-Gja014677	      0
+ 13-  1:	gene-Gja014453	gene-Gja014678	  2e-80
+ 13-  2:	gene-Gja014475	gene-Gja014691	 1e-161
+ 13-  3:	gene-Gja014500	gene-Gja014715	  2e-19
+ 13-  4:	gene-Gja014501	gene-Gja014719	 3e-105
+ 13-  5:	gene-Gja014502	gene-Gja014720	  5e-36
+## Alignment 14: score=330.0 e_value=3e-11 N=7 Chr11&Chr16 plus
+ 14-  0:	gene-Gja014256	gene-Gja017706	 2e-100
+ 14-  1:	gene-Gja014258	gene-Gja017709	  1e-09
+ 14-  2:	gene-Gja014268	gene-Gja017711	  2e-39
+ 14-  3:	gene-Gja014275	gene-Gja017714	      0
+ 14-  4:	gene-Gja014278	gene-Gja017715	  2e-70
+ 14-  5:	gene-Gja014279	gene-Gja017716	  1e-24
+ 14-  6:	gene-Gja014281	gene-Gja017717	  3e-34
+## Alignment 15: score=434.0 e_value=6.6e-22 N=9 Chr11&Chr2 plus
+ 15-  0:	gene-Gja014168	gene-Gja004185	  4e-26
+ 15-  1:	gene-Gja014171	gene-Gja004188	  8e-09
+ 15-  2:	gene-Gja014175	gene-Gja004190	  2e-97
+ 15-  3:	gene-Gja014177	gene-Gja004193	  1e-78
+ 15-  4:	gene-Gja014179	gene-Gja004195	  1e-41
+ 15-  5:	gene-Gja014181	gene-Gja004196	  1e-40
+ 15-  6:	gene-Gja014182	gene-Gja004199	  3e-60
+ 15-  7:	gene-Gja014185	gene-Gja004200	  2e-36
+ 15-  8:	gene-Gja014189	gene-Gja004204	  7e-84
+## Alignment 16: score=285.0 e_value=7.2e-12 N=6 Chr12&Chr16 plus
+ 16-  0:	gene-Gja014975	gene-Gja017702	  2e-58
+ 16-  1:	gene-Gja014991	gene-Gja017711	  1e-65
+ 16-  2:	gene-Gja014992	gene-Gja017712	  8e-18
+ 16-  3:	gene-Gja014993	gene-Gja017713	      0
+ 16-  4:	gene-Gja014994	gene-Gja017714	      0
+ 16-  5:	gene-Gja014995	gene-Gja017715	  5e-72
+## Alignment 17: score=596.0 e_value=1.4e-40 N=13 Chr12&Chr2 plus
+ 17-  0:	gene-Gja014981	gene-Gja004175	  4e-50
+ 17-  1:	gene-Gja015001	gene-Gja004176	  3e-34
+ 17-  2:	gene-Gja015011	gene-Gja004185	  1e-45
+ 17-  3:	gene-Gja015012	gene-Gja004187	  9e-33
+ 17-  4:	gene-Gja015016	gene-Gja004190	  4e-76
+ 17-  5:	gene-Gja015017	gene-Gja004191	  3e-40
+ 17-  6:	gene-Gja015019	gene-Gja004192	  3e-25
+ 17-  7:	gene-Gja015020	gene-Gja004193	  3e-38
+ 17-  8:	gene-Gja015021	gene-Gja004195	  6e-68
+ 17-  9:	gene-Gja015024	gene-Gja004199	  9e-40
+ 17- 10:	gene-Gja015027	gene-Gja004204	  5e-93
+ 17- 11:	gene-Gja015028	gene-Gja004205	  4e-59
+ 17- 12:	gene-Gja015042	gene-Gja004210	  5e-40
+## Alignment 18: score=270.0 e_value=2.2e-09 N=6 Chr12&Chr2 minus
+ 18-  0:	gene-Gja014712	gene-Gja004163	  6e-11
+ 18-  1:	gene-Gja014719	gene-Gja004160	  1e-24
+ 18-  2:	gene-Gja014720	gene-Gja004159	  2e-29
+ 18-  3:	gene-Gja014721	gene-Gja004156	      0
+ 18-  4:	gene-Gja014725	gene-Gja004134	  1e-22
+ 18-  5:	gene-Gja014726	gene-Gja004132	  1e-37
+## Alignment 19: score=278.0 e_value=4.8e-14 N=7 Chr13&Chr17 minus
+ 19-  0:	gene-Gja015506	gene-Gja019071	      0
+ 19-  1:	gene-Gja015515	gene-Gja019060	  7e-18
+ 19-  2:	gene-Gja015519	gene-Gja019038	  1e-45
+ 19-  3:	gene-Gja015520	gene-Gja019037	  5e-28
+ 19-  4:	gene-Gja015521	gene-Gja019036	  1e-58
+ 19-  5:	gene-Gja015524	gene-Gja019013	  2e-08
+ 19-  6:	gene-Gja015544	gene-Gja019003	  3e-22
+## Alignment 20: score=288.0 e_value=3.2e-08 N=6 Chr13&Chr3 plus
+ 20-  0:	gene-Gja015774	gene-Gja005562	 4e-168
+ 20-  1:	gene-Gja015775	gene-Gja005563	  3e-37
+ 20-  2:	gene-Gja015776	gene-Gja005566	  4e-31
+ 20-  3:	gene-Gja015782	gene-Gja005572	  4e-44
+ 20-  4:	gene-Gja015783	gene-Gja005573	  6e-72
+ 20-  5:	gene-Gja015785	gene-Gja005579	      0
+## Alignment 21: score=250.0 e_value=5.3e-10 N=6 Chr13&Chr3 plus
+ 21-  0:	gene-Gja015708	gene-Gja005485	      0
+ 21-  1:	gene-Gja015726	gene-Gja005496	 4e-107
+ 21-  2:	gene-Gja015742	gene-Gja005515	  7e-12
+ 21-  3:	gene-Gja015753	gene-Gja005521	 2e-147
+ 21-  4:	gene-Gja015754	gene-Gja005523	  1e-81
+ 21-  5:	gene-Gja015758	gene-Gja005528	 1e-168
+## Alignment 22: score=354.0 e_value=4.6e-17 N=8 Chr13&Chr3 minus
+ 22-  0:	gene-Gja015961	gene-Gja004972	  1e-18
+ 22-  1:	gene-Gja015962	gene-Gja004969	  6e-06
+ 22-  2:	gene-Gja015965	gene-Gja004965	  1e-38
+ 22-  3:	gene-Gja015967	gene-Gja004963	  1e-50
+ 22-  4:	gene-Gja015968	gene-Gja004961	  9e-10
+ 22-  5:	gene-Gja015978	gene-Gja004942	 5e-100
+ 22-  6:	gene-Gja015990	gene-Gja004920	  6e-18
+ 22-  7:	gene-Gja015991	gene-Gja004919	  1e-21
+## Alignment 23: score=253.0 e_value=1.2e-11 N=6 Chr14&Chr3 minus
+ 23-  0:	gene-Gja016180	gene-Gja005195	  2e-20
+ 23-  1:	gene-Gja016181	gene-Gja005194	  8e-13
+ 23-  2:	gene-Gja016186	gene-Gja005193	  2e-18
+ 23-  3:	gene-Gja016195	gene-Gja005192	  3e-40
+ 23-  4:	gene-Gja016215	gene-Gja005181	  2e-27
+ 23-  5:	gene-Gja016232	gene-Gja005164	  2e-16
+## Alignment 24: score=293.0 e_value=4.2e-12 N=7 Chr14&Chr4 minus
+ 24-  0:	gene-Gja016624	gene-Gja006175	  7e-24
+ 24-  1:	gene-Gja016650	gene-Gja006164	  9e-10
+ 24-  2:	gene-Gja016655	gene-Gja006162	  1e-51
+ 24-  3:	gene-Gja016656	gene-Gja006161	  4e-23
+ 24-  4:	gene-Gja016660	gene-Gja006160	  2e-11
+ 24-  5:	gene-Gja016675	gene-Gja006151	      0
+ 24-  6:	gene-Gja016687	gene-Gja006150	  7e-95
+## Alignment 25: score=270.0 e_value=7.2e-10 N=6 Chr14&Chr4 minus
+ 25-  0:	gene-Gja016476	gene-Gja006255	  2e-36
+ 25-  1:	gene-Gja016480	gene-Gja006251	  3e-17
+ 25-  2:	gene-Gja016481	gene-Gja006250	  1e-53
+ 25-  3:	gene-Gja016482	gene-Gja006247	  1e-12
+ 25-  4:	gene-Gja016483	gene-Gja006246	  1e-63
+ 25-  5:	gene-Gja016490	gene-Gja006220	  3e-06
+## Alignment 26: score=260.0 e_value=7.3e-12 N=7 Chr14&Chr7 plus
+ 26-  0:	gene-Gja016242	gene-Gja010740	  3e-29
+ 26-  1:	gene-Gja016265	gene-Gja010764	  5e-72
+ 26-  2:	gene-Gja016277	gene-Gja010767	  3e-24
+ 26-  3:	gene-Gja016288	gene-Gja010783	  2e-19
+ 26-  4:	gene-Gja016289	gene-Gja010787	  1e-16
+ 26-  5:	gene-Gja016307	gene-Gja010802	 6e-136
+ 26-  6:	gene-Gja016319	gene-Gja010824	  4e-16
+## Alignment 27: score=264.0 e_value=7.4e-17 N=6 Chr16&Chr16 plus
+ 27-  0:	gene-Gja018457	gene-Gja018634	  3e-18
+ 27-  1:	gene-Gja018474	gene-Gja018639	  2e-87
+ 27-  2:	gene-Gja018492	gene-Gja018640	  4e-97
+ 27-  3:	gene-Gja018493	gene-Gja018641	  6e-36
+ 27-  4:	gene-Gja018495	gene-Gja018645	  6e-88
+ 27-  5:	gene-Gja018496	gene-Gja018646	  9e-69
+## Alignment 28: score=260.0 e_value=8.1e-10 N=6 Chr16&Chr16 minus
+ 28-  0:	gene-Gja017811	gene-Gja017906	 1e-145
+ 28-  1:	gene-Gja017813	gene-Gja017905	 7e-133
+ 28-  2:	gene-Gja017822	gene-Gja017904	 5e-131
+ 28-  3:	gene-Gja017826	gene-Gja017903	 1e-133
+ 28-  4:	gene-Gja017838	gene-Gja017885	 1e-120
+ 28-  5:	gene-Gja017844	gene-Gja017873	      0
+## Alignment 29: score=257.0 e_value=1.1e-07 N=6 Chr16&Chr16 minus
+ 29-  0:	gene-Gja017920	gene-Gja018000	 5e-105
+ 29-  1:	gene-Gja017939	gene-Gja017997	 1e-114
+ 29-  2:	gene-Gja017945	gene-Gja017994	 4e-118
+ 29-  3:	gene-Gja017951	gene-Gja017993	 8e-159
+ 29-  4:	gene-Gja017955	gene-Gja017986	 4e-152
+ 29-  5:	gene-Gja017965	gene-Gja017981	 5e-125
+## Alignment 30: score=254.0 e_value=1.6e-10 N=6 Chr16&Chr7 plus
+ 30-  0:	gene-Gja018701	gene-Gja010228	  4e-28
+ 30-  1:	gene-Gja018721	gene-Gja010251	 5e-141
+ 30-  2:	gene-Gja018722	gene-Gja010257	  4e-13
+ 30-  3:	gene-Gja018726	gene-Gja010265	 1e-134
+ 30-  4:	gene-Gja018738	gene-Gja010272	 2e-100
+ 30-  5:	gene-Gja018739	gene-Gja010274	      0
+## Alignment 31: score=395.0 e_value=1.9e-21 N=10 Chr18&Chr6 plus
+ 31-  0:	gene-Gja019515	gene-Gja009469	  1e-40
+ 31-  1:	gene-Gja019516	gene-Gja009472	      0
+ 31-  2:	gene-Gja019519	gene-Gja009474	  1e-29
+ 31-  3:	gene-Gja019527	gene-Gja009477	  2e-41
+ 31-  4:	gene-Gja019550	gene-Gja009489	      0
+ 31-  5:	gene-Gja019552	gene-Gja009490	  7e-90
+ 31-  6:	gene-Gja019576	gene-Gja009492	  2e-20
+ 31-  7:	gene-Gja019591	gene-Gja009494	  1e-68
+ 31-  8:	gene-Gja019609	gene-Gja009495	  2e-15
+ 31-  9:	gene-Gja019627	gene-Gja009502	  7e-67
+## Alignment 32: score=275.0 e_value=3.7e-10 N=6 Chr18&Chr6 plus
+ 32-  0:	gene-Gja019403	gene-Gja009575	  5e-42
+ 32-  1:	gene-Gja019408	gene-Gja009576	 8e-163
+ 32-  2:	gene-Gja019410	gene-Gja009592	 3e-156
+ 32-  3:	gene-Gja019415	gene-Gja009599	      0
+ 32-  4:	gene-Gja019416	gene-Gja009600	  8e-12
+ 32-  5:	gene-Gja019417	gene-Gja009601	  1e-57
+## Alignment 33: score=274.0 e_value=6.1e-10 N=6 Chr18&Chr6 plus
+ 33-  0:	gene-Gja019587	gene-Gja009648	  9e-11
+ 33-  1:	gene-Gja019588	gene-Gja009650	  9e-06
+ 33-  2:	gene-Gja019589	gene-Gja009656	 6e-159
+ 33-  3:	gene-Gja019591	gene-Gja009657	  1e-36
+ 33-  4:	gene-Gja019592	gene-Gja009658	  1e-48
+ 33-  5:	gene-Gja019612	gene-Gja009661	  9e-32
+## Alignment 34: score=269.0 e_value=6.3e-10 N=6 Chr19&Chr5 plus
+ 34-  0:	gene-Gja020097	gene-Gja008526	  1e-46
+ 34-  1:	gene-Gja020099	gene-Gja008530	 4e-150
+ 34-  2:	gene-Gja020116	gene-Gja008542	      0
+ 34-  3:	gene-Gja020117	gene-Gja008543	  1e-64
+ 34-  4:	gene-Gja020120	gene-Gja008550	  3e-09
+ 34-  5:	gene-Gja020127	gene-Gja008556	  3e-06
+## Alignment 35: score=266.0 e_value=2.6e-10 N=6 Chr19&Chr5 plus
+ 35-  0:	gene-Gja020135	gene-Gja008481	  1e-36
+ 35-  1:	gene-Gja020136	gene-Gja008493	  5e-42
+ 35-  2:	gene-Gja020155	gene-Gja008515	  8e-30
+ 35-  3:	gene-Gja020156	gene-Gja008516	  4e-14
+ 35-  4:	gene-Gja020157	gene-Gja008517	  4e-29
+ 35-  5:	gene-Gja020159	gene-Gja008518	  7e-55
+## Alignment 36: score=638.0 e_value=1.8e-41 N=16 Chr2&Chr2 plus
+ 36-  0:	gene-Gja002219	gene-Gja002452	 5e-174
+ 36-  1:	gene-Gja002241	gene-Gja002464	      0
+ 36-  2:	gene-Gja002248	gene-Gja002466	  2e-62
+ 36-  3:	gene-Gja002257	gene-Gja002468	  6e-69
+ 36-  4:	gene-Gja002264	gene-Gja002494	  2e-61
+ 36-  5:	gene-Gja002268	gene-Gja002495	 3e-149
+ 36-  6:	gene-Gja002278	gene-Gja002498	  4e-47
+ 36-  7:	gene-Gja002281	gene-Gja002503	      0
+ 36-  8:	gene-Gja002287	gene-Gja002507	 3e-131
+ 36-  9:	gene-Gja002291	gene-Gja002509	      0
+ 36- 10:	gene-Gja002293	gene-Gja002516	  1e-44
+ 36- 11:	gene-Gja002312	gene-Gja002537	      0
+ 36- 12:	gene-Gja002313	gene-Gja002538	      0
+ 36- 13:	gene-Gja002316	gene-Gja002560	      0
+ 36- 14:	gene-Gja002341	gene-Gja002561	      0
+ 36- 15:	gene-Gja002349	gene-Gja002564	  4e-49
+## Alignment 37: score=362.0 e_value=2.1e-19 N=10 Chr2&Chr2 plus
+ 37-  0:	gene-Gja002183	gene-Gja002467	  8e-71
+ 37-  1:	gene-Gja002200	gene-Gja002488	  3e-90
+ 37-  2:	gene-Gja002209	gene-Gja002504	  4e-31
+ 37-  3:	gene-Gja002219	gene-Gja002517	 3e-172
+ 37-  4:	gene-Gja002239	gene-Gja002536	      0
+ 37-  5:	gene-Gja002257	gene-Gja002543	  8e-39
+ 37-  6:	gene-Gja002278	gene-Gja002544	 1e-120
+ 37-  7:	gene-Gja002293	gene-Gja002559	  6e-35
+ 37-  8:	gene-Gja002305	gene-Gja002560	 3e-136
+ 37-  9:	gene-Gja002316	gene-Gja002566	 1e-140
+## Alignment 38: score=309.0 e_value=9.3e-15 N=8 Chr2&Chr2 plus
+ 38-  0:	gene-Gja002377	gene-Gja002454	  3e-75
+ 38-  1:	gene-Gja002385	gene-Gja002466	  2e-62
+ 38-  2:	gene-Gja002386	gene-Gja002484	      0
+ 38-  3:	gene-Gja002392	gene-Gja002490	  5e-81
+ 38-  4:	gene-Gja002405	gene-Gja002491	  5e-66
+ 38-  5:	gene-Gja002410	gene-Gja002494	      0
+ 38-  6:	gene-Gja002430	gene-Gja002510	  3e-52
+ 38-  7:	gene-Gja002435	gene-Gja002534	  2e-62
+## Alignment 39: score=289.0 e_value=1.5e-10 N=7 Chr2&Chr2 plus
+ 39-  0:	gene-Gja002248	gene-Gja002456	      0
+ 39-  1:	gene-Gja002265	gene-Gja002464	      0
+ 39-  2:	gene-Gja002278	gene-Gja002482	 2e-103
+ 39-  3:	gene-Gja002281	gene-Gja002494	      0
+ 39-  4:	gene-Gja002287	gene-Gja002496	 5e-144
+ 39-  5:	gene-Gja002293	gene-Gja002502	  7e-35
+ 39-  6:	gene-Gja002301	gene-Gja002509	      0
+## Alignment 40: score=265.0 e_value=2.7e-08 N=6 Chr2&Chr2 plus
+ 40-  0:	gene-Gja002204	gene-Gja002241	      0
+ 40-  1:	gene-Gja002206	gene-Gja002247	      0
+ 40-  2:	gene-Gja002212	gene-Gja002249	 3e-118
+ 40-  3:	gene-Gja002218	gene-Gja002257	      0
+ 40-  4:	gene-Gja002234	gene-Gja002271	      0
+ 40-  5:	gene-Gja002238	gene-Gja002272	 2e-162
+## Alignment 41: score=264.0 e_value=7.1e-12 N=7 Chr2&Chr2 plus
+ 41-  0:	gene-Gja002181	gene-Gja002342	      0
+ 41-  1:	gene-Gja002183	gene-Gja002367	 7e-175
+ 41-  2:	gene-Gja002187	gene-Gja002369	      0
+ 41-  3:	gene-Gja002205	gene-Gja002385	      0
+ 41-  4:	gene-Gja002212	gene-Gja002388	  4e-63
+ 41-  5:	gene-Gja002238	gene-Gja002409	  1e-87
+ 41-  6:	gene-Gja002247	gene-Gja002421	      0
+## Alignment 42: score=423.0 e_value=2.1e-25 N=11 Chr2&Chr2 minus
+ 42-  0:	gene-Gja002346	gene-Gja002580	  1e-47
+ 42-  1:	gene-Gja002371	gene-Gja002560	  2e-71
+ 42-  2:	gene-Gja002386	gene-Gja002550	      0
+ 42-  3:	gene-Gja002387	gene-Gja002547	  1e-37
+ 42-  4:	gene-Gja002391	gene-Gja002531	 3e-138
+ 42-  5:	gene-Gja002392	gene-Gja002509	      0
+ 42-  6:	gene-Gja002397	gene-Gja002500	  3e-29
+ 42-  7:	gene-Gja002398	gene-Gja002496	 5e-144
+ 42-  8:	gene-Gja002405	gene-Gja002483	  1e-52
+ 42-  9:	gene-Gja002412	gene-Gja002481	 3e-136
+ 42- 10:	gene-Gja002422	gene-Gja002458	 5e-132
+## Alignment 43: score=354.0 e_value=4.2e-15 N=8 Chr2&Chr2 minus
+ 43-  0:	gene-Gja002735	gene-Gja002813	 6e-100
+ 43-  1:	gene-Gja002739	gene-Gja002796	  3e-75
+ 43-  2:	gene-Gja002741	gene-Gja002793	  9e-16
+ 43-  3:	gene-Gja002742	gene-Gja002788	  3e-28
+ 43-  4:	gene-Gja002747	gene-Gja002784	  4e-81
+ 43-  5:	gene-Gja002754	gene-Gja002779	 7e-122
+ 43-  6:	gene-Gja002763	gene-Gja002775	  2e-26
+ 43-  7:	gene-Gja002764	gene-Gja002768	  1e-08
+## Alignment 44: score=297.0 e_value=3.6e-11 N=7 Chr2&Chr2 minus
+ 44-  0:	gene-Gja002474	gene-Gja002816	  9e-98
+ 44-  1:	gene-Gja002482	gene-Gja002812	  3e-65
+ 44-  2:	gene-Gja002494	gene-Gja002804	      0
+ 44-  3:	gene-Gja002498	gene-Gja002802	  2e-47
+ 44-  4:	gene-Gja002511	gene-Gja002792	  9e-82
+ 44-  5:	gene-Gja002512	gene-Gja002773	  7e-12
+ 44-  6:	gene-Gja002514	gene-Gja002770	  6e-68
+## Alignment 45: score=286.0 e_value=8e-11 N=7 Chr2&Chr2 minus
+ 45-  0:	gene-Gja002514	gene-Gja002813	  1e-60
+ 45-  1:	gene-Gja002522	gene-Gja002805	  1e-61
+ 45-  2:	gene-Gja002544	gene-Gja002801	  2e-58
+ 45-  3:	gene-Gja002548	gene-Gja002792	  3e-88
+ 45-  4:	gene-Gja002560	gene-Gja002786	 7e-104
+ 45-  5:	gene-Gja002570	gene-Gja002775	  1e-62
+ 45-  6:	gene-Gja002578	gene-Gja002772	  7e-36
+## Alignment 46: score=251.0 e_value=1.1e-08 N=6 Chr2&Chr2 minus
+ 46-  0:	gene-Gja002466	gene-Gja002803	  6e-13
+ 46-  1:	gene-Gja002482	gene-Gja002801	  6e-59
+ 46-  2:	gene-Gja002485	gene-Gja002795	 2e-100
+ 46-  3:	gene-Gja002494	gene-Gja002786	 3e-101
+ 46-  4:	gene-Gja002511	gene-Gja002769	 3e-108
+ 46-  5:	gene-Gja002514	gene-Gja002763	  2e-27
+## Alignment 47: score=498.0 e_value=5.1e-28 N=11 Chr2&Chr4 plus
+ 47-  0:	gene-Gja003607	gene-Gja006329	      0
+ 47-  1:	gene-Gja003609	gene-Gja006343	  2e-79
+ 47-  2:	gene-Gja003610	gene-Gja006344	  1e-39
+ 47-  3:	gene-Gja003611	gene-Gja006359	  6e-65
+ 47-  4:	gene-Gja003613	gene-Gja006377	  1e-14
+ 47-  5:	gene-Gja003614	gene-Gja006379	 2e-117
+ 47-  6:	gene-Gja003616	gene-Gja006382	  5e-33
+ 47-  7:	gene-Gja003618	gene-Gja006383	 6e-105
+ 47-  8:	gene-Gja003623	gene-Gja006386	  4e-11
+ 47-  9:	gene-Gja003624	gene-Gja006387	  1e-56
+ 47- 10:	gene-Gja003625	gene-Gja006388	  2e-45
+## Alignment 48: score=351.0 e_value=2.4e-18 N=9 Chr2&Chr5 plus
+ 48-  0:	gene-Gja003807	gene-Gja008506	  1e-49
+ 48-  1:	gene-Gja003809	gene-Gja008517	  4e-28
+ 48-  2:	gene-Gja003812	gene-Gja008518	  2e-21
+ 48-  3:	gene-Gja003824	gene-Gja008541	      0
+ 48-  4:	gene-Gja003838	gene-Gja008543	  1e-59
+ 48-  5:	gene-Gja003845	gene-Gja008544	  3e-14
+ 48-  6:	gene-Gja003863	gene-Gja008569	  2e-70
+ 48-  7:	gene-Gja003869	gene-Gja008571	  1e-98
+ 48-  8:	gene-Gja003872	gene-Gja008589	  1e-10
+## Alignment 49: score=288.0 e_value=1e-08 N=6 Chr2&Chr5 plus
+ 49-  0:	gene-Gja003041	gene-Gja008728	      0
+ 49-  1:	gene-Gja003042	gene-Gja008732	      0
+ 49-  2:	gene-Gja003044	gene-Gja008734	  2e-16
+ 49-  3:	gene-Gja003046	gene-Gja008735	  9e-70
+ 49-  4:	gene-Gja003047	gene-Gja008737	  4e-47
+ 49-  5:	gene-Gja003054	gene-Gja008740	  5e-28
+## Alignment 50: score=274.0 e_value=6.2e-10 N=6 Chr2&Chr5 minus
+ 50-  0:	gene-Gja002936	gene-Gja008233	  6e-10
+ 50-  1:	gene-Gja002937	gene-Gja008231	  1e-55
+ 50-  2:	gene-Gja002938	gene-Gja008230	  4e-07
+ 50-  3:	gene-Gja002940	gene-Gja008228	 4e-157
+ 50-  4:	gene-Gja002948	gene-Gja008217	      0
+ 50-  5:	gene-Gja002959	gene-Gja008202	  5e-28
+## Alignment 51: score=297.0 e_value=1.5e-12 N=7 Chr4&Chr5 minus
+ 51-  0:	gene-Gja006737	gene-Gja008423	  4e-20
+ 51-  1:	gene-Gja006739	gene-Gja008419	  4e-22
+ 51-  2:	gene-Gja006760	gene-Gja008402	      0
+ 51-  3:	gene-Gja006775	gene-Gja008381	  1e-07
+ 51-  4:	gene-Gja006776	gene-Gja008378	  2e-21
+ 51-  5:	gene-Gja006778	gene-Gja008376	  6e-35
+ 51-  6:	gene-Gja006779	gene-Gja008368	  1e-14
+## Alignment 52: score=269.0 e_value=4.8e-09 N=6 Chr4&Chr5 minus
+ 52-  0:	gene-Gja006915	gene-Gja008344	      0
+ 52-  1:	gene-Gja006916	gene-Gja008340	  6e-28
+ 52-  2:	gene-Gja006917	gene-Gja008337	  6e-39
+ 52-  3:	gene-Gja006918	gene-Gja008317	  2e-17
+ 52-  4:	gene-Gja006922	gene-Gja008309	  2e-41
+ 52-  5:	gene-Gja006923	gene-Gja008308	 5e-134
+## Alignment 53: score=566.0 e_value=2.6e-38 N=13 Chr4&Chr9 plus
+ 53-  0:	gene-Gja007103	gene-Gja012309	  4e-41
+ 53-  1:	gene-Gja007104	gene-Gja012313	 2e-149
+ 53-  2:	gene-Gja007105	gene-Gja012314	  9e-30
+ 53-  3:	gene-Gja007106	gene-Gja012315	  7e-56
+ 53-  4:	gene-Gja007109	gene-Gja012322	      0
+ 53-  5:	gene-Gja007111	gene-Gja012324	  7e-31
+ 53-  6:	gene-Gja007112	gene-Gja012326	      0
+ 53-  7:	gene-Gja007113	gene-Gja012327	  5e-44
+ 53-  8:	gene-Gja007125	gene-Gja012347	  3e-31
+ 53-  9:	gene-Gja007127	gene-Gja012366	  4e-91
+ 53- 10:	gene-Gja007128	gene-Gja012369	  1e-11
+ 53- 11:	gene-Gja007148	gene-Gja012370	  3e-90
+ 53- 12:	gene-Gja007159	gene-Gja012388	  8e-06
+## Alignment 54: score=349.0 e_value=5.1e-17 N=8 Chr4&Chr9 plus
+ 54-  0:	gene-Gja007044	gene-Gja012692	  6e-29
+ 54-  1:	gene-Gja007050	gene-Gja012702	      0
+ 54-  2:	gene-Gja007051	gene-Gja012704	      0
+ 54-  3:	gene-Gja007052	gene-Gja012711	  2e-74
+ 54-  4:	gene-Gja007053	gene-Gja012715	 5e-143
+ 54-  5:	gene-Gja007054	gene-Gja012716	  7e-55
+ 54-  6:	gene-Gja007055	gene-Gja012731	 1e-105
+ 54-  7:	gene-Gja007070	gene-Gja012750	 7e-116
+## Alignment 55: score=293.0 e_value=6.3e-10 N=6 Chr4&Chr9 plus
+ 55-  0:	gene-Gja007226	gene-Gja012497	 1e-166
+ 55-  1:	gene-Gja007227	gene-Gja012498	  3e-61
+ 55-  2:	gene-Gja007229	gene-Gja012501	 1e-144
+ 55-  3:	gene-Gja007234	gene-Gja012504	  9e-77
+ 55-  4:	gene-Gja007235	gene-Gja012505	  2e-75
+ 55-  5:	gene-Gja007236	gene-Gja012507	  2e-48
+## Alignment 56: score=453.0 e_value=9.7e-21 N=10 Chr4&Chr9 minus
+ 56-  0:	gene-Gja007062	gene-Gja012606	  5e-23
+ 56-  1:	gene-Gja007063	gene-Gja012604	  3e-12
+ 56-  2:	gene-Gja007065	gene-Gja012602	  8e-31
+ 56-  3:	gene-Gja007076	gene-Gja012582	  2e-23
+ 56-  4:	gene-Gja007078	gene-Gja012578	  3e-14
+ 56-  5:	gene-Gja007079	gene-Gja012577	  8e-21
+ 56-  6:	gene-Gja007080	gene-Gja012573	 6e-145
+ 56-  7:	gene-Gja007083	gene-Gja012569	  3e-18
+ 56-  8:	gene-Gja007084	gene-Gja012567	  5e-25
+ 56-  9:	gene-Gja007091	gene-Gja012550	  1e-08
+## Alignment 57: score=280.0 e_value=5e-09 N=6 Chr4&Chr9 minus
+ 57-  0:	gene-Gja007179	gene-Gja012457	  3e-31
+ 57-  1:	gene-Gja007188	gene-Gja012451	  3e-10
+ 57-  2:	gene-Gja007193	gene-Gja012447	      0
+ 57-  3:	gene-Gja007194	gene-Gja012444	  1e-21
+ 57-  4:	gene-Gja007200	gene-Gja012440	  2e-14
+ 57-  5:	gene-Gja007202	gene-Gja012438	  8e-18
+## Alignment 58: score=258.0 e_value=4.5e-09 N=6 Chr5&Chr8 plus
+ 58-  0:	gene-Gja008764	gene-Gja011938	  4e-25
+ 58-  1:	gene-Gja008780	gene-Gja011943	  2e-70
+ 58-  2:	gene-Gja008785	gene-Gja011945	  2e-12
+ 58-  3:	gene-Gja008792	gene-Gja011947	  2e-36
+ 58-  4:	gene-Gja008800	gene-Gja011955	  2e-36
+ 58-  5:	gene-Gja008802	gene-Gja011966	      0
+## Alignment 59: score=255.0 e_value=2.3e-09 N=6 Chr5&Chr8 plus
+ 59-  0:	gene-Gja007480	gene-Gja011580	  8e-74
+ 59-  1:	gene-Gja007485	gene-Gja011581	 2e-101
+ 59-  2:	gene-Gja007486	gene-Gja011583	 3e-102
+ 59-  3:	gene-Gja007488	gene-Gja011588	      0
+ 59-  4:	gene-Gja007505	gene-Gja011610	 2e-139
+ 59-  5:	gene-Gja007520	gene-Gja011626	 6e-114
+## Alignment 60: score=300.0 e_value=2.3e-13 N=7 Chr5&Chr8 minus
+ 60-  0:	gene-Gja007486	gene-Gja011583	 3e-102
+ 60-  1:	gene-Gja007508	gene-Gja011562	  8e-06
+ 60-  2:	gene-Gja007526	gene-Gja011558	      0
+ 60-  3:	gene-Gja007527	gene-Gja011554	  7e-09
+ 60-  4:	gene-Gja007530	gene-Gja011553	  3e-14
+ 60-  5:	gene-Gja007531	gene-Gja011548	      0
+ 60-  6:	gene-Gja007533	gene-Gja011543	  2e-20
+## Alignment 61: score=293.0 e_value=3.1e-14 N=7 Chr5&Chr8 minus
+ 61-  0:	gene-Gja008302	gene-Gja012000	 1e-118
+ 61-  1:	gene-Gja008316	gene-Gja011992	 4e-157
+ 61-  2:	gene-Gja008328	gene-Gja011981	  2e-33
+ 61-  3:	gene-Gja008329	gene-Gja011980	  4e-14
+ 61-  4:	gene-Gja008330	gene-Gja011977	      0
+ 61-  5:	gene-Gja008347	gene-Gja011975	  6e-15
+ 61-  6:	gene-Gja008348	gene-Gja011959	  2e-35
